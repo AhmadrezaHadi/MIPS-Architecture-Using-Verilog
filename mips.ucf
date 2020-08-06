@@ -1,0 +1,6 @@
+
+NET "clock" IOSTANDARD = LVCMOS33;
+
+
+NET "clock" LOC = P132;
+
